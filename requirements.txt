@@ -1,0 +1,11 @@
+fastapi==0.115.0
+protobuf==5.28.2
+pydantic==2.9.2
+pypdf==5.0.1
+pytest==8.3.3
+python-dotenv==1.0.1
+reportlab==4.2.5
+slowapi==0.1.9
+SQLAlchemy==2.0.35
+starlette==0.39.2
+uvicorn==0.31.0
